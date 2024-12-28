@@ -60,12 +60,12 @@ Figure -02 HALF Subtractor
 
 **RTL SCHEMATIC**
 
-![Screenshot (49)](https://github.com/user-attachments/assets/d826eb03-44d4-4bd5-a37c-887250afed4e)
 
+![Screenshot (51)](https://github.com/user-attachments/assets/868dca55-ffc2-4ccc-ae41-4b5111c9cbb0)
 
 **OUTPUT/TIMING WAVEFORM**
 
-![Screenshot (51)](https://github.com/user-attachments/assets/868dca55-ffc2-4ccc-ae41-4b5111c9cbb0)
+![Screenshot (49)](https://github.com/user-attachments/assets/d826eb03-44d4-4bd5-a37c-887250afed4e)
 
 **RESULT:**
 Thus the Half adder and Half subtractor are studied and truth table is verified
